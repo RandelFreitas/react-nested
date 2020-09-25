@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RandelFreitas/react-nested/precache-manifest.8585df4fe75652fc6479f2503dbdb636.js"
+  "/RandelFreitas/react-nested/precache-manifest.6b70843d1f49f25a0acfdf3fadaa86f1.js"
 );
 
 self.addEventListener('message', (event) => {
