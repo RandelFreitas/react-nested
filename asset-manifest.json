@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/RandelFreitas/react-nested/static/js/main.458a974c.chunk.js",
+    "main.js.map": "/RandelFreitas/react-nested/static/js/main.458a974c.chunk.js.map",
+    "runtime-main.js": "/RandelFreitas/react-nested/static/js/runtime-main.9cfff11b.js",
+    "runtime-main.js.map": "/RandelFreitas/react-nested/static/js/runtime-main.9cfff11b.js.map",
+    "static/js/2.b81767d4.chunk.js": "/RandelFreitas/react-nested/static/js/2.b81767d4.chunk.js",
+    "static/js/2.b81767d4.chunk.js.map": "/RandelFreitas/react-nested/static/js/2.b81767d4.chunk.js.map",
+    "index.html": "/RandelFreitas/react-nested/index.html",
+    "precache-manifest.8585df4fe75652fc6479f2503dbdb636.js": "/RandelFreitas/react-nested/precache-manifest.8585df4fe75652fc6479f2503dbdb636.js",
+    "service-worker.js": "/RandelFreitas/react-nested/service-worker.js",
+    "static/js/2.b81767d4.chunk.js.LICENSE.txt": "/RandelFreitas/react-nested/static/js/2.b81767d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cfff11b.js",
+    "static/js/2.b81767d4.chunk.js",
+    "static/js/main.458a974c.chunk.js"
+  ]
+}
