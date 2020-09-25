@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-nested/precache-manifest.e1e6eb4174a8727b7c7065d74b36bc7a.js"
+  "/react-nested/precache-manifest.6ff286f1a6ebea22f84c06145ea09ec6.js"
 );
 
 self.addEventListener('message', (event) => {
