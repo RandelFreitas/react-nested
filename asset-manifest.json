@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/RandelFreitas/react-nested/static/js/main.d63f6183.chunk.js",
-    "main.js.map": "/RandelFreitas/react-nested/static/js/main.d63f6183.chunk.js.map",
-    "runtime-main.js": "/RandelFreitas/react-nested/static/js/runtime-main.0d8b142b.js",
-    "runtime-main.js.map": "/RandelFreitas/react-nested/static/js/runtime-main.0d8b142b.js.map",
-    "static/js/2.080c05db.chunk.js": "/RandelFreitas/react-nested/static/js/2.080c05db.chunk.js",
-    "static/js/2.080c05db.chunk.js.map": "/RandelFreitas/react-nested/static/js/2.080c05db.chunk.js.map",
-    "index.html": "/RandelFreitas/react-nested/index.html",
-    "precache-manifest.6b70843d1f49f25a0acfdf3fadaa86f1.js": "/RandelFreitas/react-nested/precache-manifest.6b70843d1f49f25a0acfdf3fadaa86f1.js",
-    "service-worker.js": "/RandelFreitas/react-nested/service-worker.js",
-    "static/js/2.080c05db.chunk.js.LICENSE.txt": "/RandelFreitas/react-nested/static/js/2.080c05db.chunk.js.LICENSE.txt"
+    "main.js": "/react-nested/static/js/main.ddda9eb4.chunk.js",
+    "main.js.map": "/react-nested/static/js/main.ddda9eb4.chunk.js.map",
+    "runtime-main.js": "/react-nested/static/js/runtime-main.b3a1c9b9.js",
+    "runtime-main.js.map": "/react-nested/static/js/runtime-main.b3a1c9b9.js.map",
+    "static/js/2.9197c9ee.chunk.js": "/react-nested/static/js/2.9197c9ee.chunk.js",
+    "static/js/2.9197c9ee.chunk.js.map": "/react-nested/static/js/2.9197c9ee.chunk.js.map",
+    "index.html": "/react-nested/index.html",
+    "precache-manifest.9173d7d85efe70d6020deb0f5a2a3abc.js": "/react-nested/precache-manifest.9173d7d85efe70d6020deb0f5a2a3abc.js",
+    "service-worker.js": "/react-nested/service-worker.js",
+    "static/js/2.9197c9ee.chunk.js.LICENSE.txt": "/react-nested/static/js/2.9197c9ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d8b142b.js",
-    "static/js/2.080c05db.chunk.js",
-    "static/js/main.d63f6183.chunk.js"
+    "static/js/runtime-main.b3a1c9b9.js",
+    "static/js/2.9197c9ee.chunk.js",
+    "static/js/main.ddda9eb4.chunk.js"
   ]
 }
