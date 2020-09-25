@@ -4,9 +4,9 @@ import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import Main from './pages/main';
 
 const Rotas = () => (
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter>
     <Switch>
-      <Route path='/app' component={Main}/>
+      <Route path='/' component={Main}/>
     </Switch>
   </BrowserRouter>  
 )
